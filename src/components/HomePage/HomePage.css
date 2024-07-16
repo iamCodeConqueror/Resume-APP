@@ -1,0 +1,52 @@
+.homepage_container{
+    display: flex;
+    align-items: center;
+    height: 90vh;
+}
+.homepage_left{
+    flex:0.6;
+    padding-right: 30px;
+
+}
+.homepage_left_h3{
+    font-size:30px;
+
+}
+.homepage_left_discription{
+    font-size:14px;
+    
+}
+.homepage_left>h1{
+    font-size: 22px;
+    
+}
+.red_color{
+    color:red;
+
+}
+.homepage_left_h2{
+    font-size:48px;
+    font-weight: 700;
+    
+}
+.homepage_right{
+    flex:0.4;
+
+}
+.homepage_right>image{
+    width: 100%;
+}
+.homepage_left-button{
+    margin-top:25px;
+    font-size: 20px;
+    padding: 8px 10px ;
+    background-color: black;
+    cursor: pointer;
+    color: yellow;
+    border-radius: 20px;
+    border-color: red;
+}
+.homepage_logo{
+    height :60px;
+    margin :15px 0;
+}
